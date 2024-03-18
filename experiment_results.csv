@@ -1,0 +1,5 @@
+MutationProbability,MaxDepth,PopulationSize,TournamentSize,CrossoverProbability,Generations,BestIndividual,BestFitness
+0.3,4,1000,3,0.7,1001,"(sqrt(BMI) - 6.4171666657808935)",0.6640625
+0.300000,5,1000,3,0,700000,"((((Pregnancies - (BloodPressure / Pregnancies)) - BloodPressure) / (17.61883982603034 - Glucose)) < 0.6507162309846528)",0.727865
+0.300000,5,1000,3,0,700000,"(sqrt((BloodPressure / ((BMI * Pregnancies) - DiabetesPedigreeFunction))) < DiabetesPedigreeFunction)",0.686198
+0.300000,5,1000,3,0,700000,"(sqrt((BloodPressure / ((BMI * Pregnancies) - DiabetesPedigreeFunction))) < DiabetesPedigreeFunction)",0.686198
